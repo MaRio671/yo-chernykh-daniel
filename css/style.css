@@ -1,0 +1,25 @@
+body {
+    box-sizing: border-box;
+}
+
+.h1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 9px 22px;
+    gap: 10px;
+    position: absolute;
+    width: 161px;
+    height: 40px;
+    left: 243px;
+    top: 474px;
+}
+
+img {
+    display: block;
+    max-width: ;
+}
+
+button {
+    text-decoration: none;
+}
